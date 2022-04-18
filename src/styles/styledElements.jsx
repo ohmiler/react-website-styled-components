@@ -72,8 +72,8 @@ export const FooterCon = styled.footer`
   color: #fff;
   padding: 1rem;
   text-align: center;
-  position: absolute;
-  bottom: 0;
   width: 100%;
+  position: fixed;
+  bottom: 0;
 `
 
